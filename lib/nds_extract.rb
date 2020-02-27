@@ -8,8 +8,8 @@ pp directors_database
 def directors_totals(nds)
 
 result = {}
-director_index = 0
-while director_index < nds.length do
+director_jono = 0
+while director_jono < nds.length do
   director = nds[directorjono][:name]
    movie_index = 0
    result[director] = 0
