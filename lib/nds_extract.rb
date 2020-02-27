@@ -19,7 +19,7 @@ while director_index < nds.length do
     end
     director_index += 1
   end
-  
+  result
 
 
 end 
