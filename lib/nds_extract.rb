@@ -18,7 +18,8 @@ while director_index < nds.length do
       movie_index += 1
     end
     director_index += 1
-    
+  end
+  
 
 
 end 
