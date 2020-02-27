@@ -17,7 +17,7 @@ while director_jono < nds.length do
      result[director] += nds[directorjono][:movies][movie_index][:worldwide_gross]
       movie_index += 1
     end
-    director_index += 1
+    director_jono += 1
   end
   result
 
