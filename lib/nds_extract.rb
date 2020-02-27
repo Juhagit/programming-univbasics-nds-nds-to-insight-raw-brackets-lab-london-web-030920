@@ -13,7 +13,8 @@ while director_index < nds.length do
   director = nds[director_index][:name]
    movie_index = 0
    result[director] = 0
-   
+   while movie_index < nds[director_index][:movies].length do
+     
 
 
 end 
